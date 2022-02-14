@@ -2,4 +2,4 @@
 Primeiro repositório
 
 ## links uteis
-[Sintaxe basica Markdown]
+[Sintaxe basica Markdown](https://markdownguid.org/basic-syntax/)
